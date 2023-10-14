@@ -275,3 +275,6 @@ C:\Users\xmadi\source\repos\ExpenseTracker\bin\Debug\net6.0\runtimes\unix\lib\ne
 C:\Users\xmadi\source\repos\ExpenseTracker\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\xmadi\source\repos\ExpenseTracker\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\xmadi\source\repos\ExpenseTracker\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\xmadi\source\repos\ExpenseTracker\bin\Debug\net6.0\Syncfusion.EJ2.dll
+C:\Users\xmadi\source\repos\ExpenseTracker\bin\Debug\net6.0\Syncfusion.Licensing.dll
+C:\Users\xmadi\source\repos\ExpenseTracker\obj\Debug\net6.0\ExpenseTracker.MvcApplicationPartsAssemblyInfo.cs

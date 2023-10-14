@@ -8,6 +8,9 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(@"Server=(localdb)\LocalDatabase;Database=TransactionDB;Trusted_Connection=True;MultipleActiveResultSets=True"));
 
+Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Ngo9BigBOggjHTQxAR8/V1NHaF5cXmVCf1NpR2JGfV5yd0VEal9VTnZfUiweQnxTdEZiWX5acHZWQmBcUERwXQ==");
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -17,6 +20,7 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();

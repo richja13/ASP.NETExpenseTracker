@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "N6qWH0CDdp+PWdPJRkHoBpfhjfu50wVjSFzB0xHfhxIZwbq1UnJMQAU6dB5AxDHlW4UreDQhBFhDEl5dgrZaSQ==",
+  "dgSpecHash": "odY6iilX2hpkOztOrqky3BADC+M743ZIJv+ZEPreAAyOj13rbi/02v/NXSRhJSrywp0iooni7pEOgoqJTSIGpw==",
   "success": true,
   "projectFilePath": "C:\\Users\\xmadi\\source\\repos\\ExpenseTracker\\ExpenseTracker.csproj",
   "expectedPackageFiles": [
@@ -117,7 +117,7 @@
     "C:\\Users\\xmadi\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\xmadi\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\xmadi\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
-    "C:\\Users\\xmadi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\xmadi\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\xmadi\\.nuget\\packages\\nuget.common\\6.6.1\\nuget.common.6.6.1.nupkg.sha512",
     "C:\\Users\\xmadi\\.nuget\\packages\\nuget.configuration\\6.6.1\\nuget.configuration.6.6.1.nupkg.sha512",
     "C:\\Users\\xmadi\\.nuget\\packages\\nuget.dependencyresolver.core\\6.6.1\\nuget.dependencyresolver.core.6.6.1.nupkg.sha512",
@@ -147,6 +147,8 @@
     "C:\\Users\\xmadi\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
     "C:\\Users\\xmadi\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
     "C:\\Users\\xmadi\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\xmadi\\.nuget\\packages\\syncfusion.ej2.aspnet.core\\23.1.40\\syncfusion.ej2.aspnet.core.23.1.40.nupkg.sha512",
+    "C:\\Users\\xmadi\\.nuget\\packages\\syncfusion.licensing\\23.1.40\\syncfusion.licensing.23.1.40.nupkg.sha512",
     "C:\\Users\\xmadi\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\xmadi\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\xmadi\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

@@ -12,7 +12,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.23",
           "Microsoft.EntityFrameworkCore.Sqlite": "6.0.23",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.23",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16",
+          "Syncfusion.EJ2.AspNet.Core": "23.1.40"
         },
         "runtime": {
           "ExpenseTracker.dll": {}
@@ -1126,7 +1127,7 @@
         "dependencies": {
           "Humanizer": "2.14.1",
           "Microsoft.CodeAnalysis.CSharp.Features": "4.0.0",
-          "Newtonsoft.Json": "13.0.1",
+          "Newtonsoft.Json": "13.0.2",
           "NuGet.ProjectModel": "6.6.1"
         },
         "runtime": {
@@ -1404,7 +1405,7 @@
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "6.0.1",
           "Microsoft.VisualStudio.Web.CodeGeneration.Templating": "6.0.16",
-          "Newtonsoft.Json": "13.0.1"
+          "Newtonsoft.Json": "13.0.2"
         },
         "runtime": {
           "lib/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll": {
@@ -1456,7 +1457,7 @@
           "Microsoft.Build": "17.3.2",
           "Microsoft.CodeAnalysis.CSharp.Workspaces": "4.0.0",
           "Microsoft.DotNet.Scaffolding.Shared": "6.0.16",
-          "Newtonsoft.Json": "13.0.1"
+          "Newtonsoft.Json": "13.0.2"
         },
         "runtime": {
           "lib/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll": {
@@ -1554,11 +1555,11 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/13.0.1": {
+      "Newtonsoft.Json/13.0.2": {
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "assemblyVersion": "13.0.0.0",
-            "fileVersion": "13.0.1.25517"
+            "fileVersion": "13.0.2.27524"
           }
         }
       },
@@ -1620,7 +1621,7 @@
       },
       "NuGet.Packaging/6.6.1": {
         "dependencies": {
-          "Newtonsoft.Json": "13.0.1",
+          "Newtonsoft.Json": "13.0.2",
           "NuGet.Configuration": "6.6.1",
           "NuGet.Versioning": "6.6.1",
           "System.Security.Cryptography.Cng": "5.0.0",
@@ -1856,6 +1857,26 @@
           "lib/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll": {
             "assemblyVersion": "2.1.2.1721",
             "fileVersion": "2.1.2.1721"
+          }
+        }
+      },
+      "Syncfusion.EJ2.AspNet.Core/23.1.40": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.2",
+          "Syncfusion.Licensing": "23.1.40"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Syncfusion.EJ2.dll": {
+            "assemblyVersion": "23.1.40.0",
+            "fileVersion": "23.1.40.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/23.1.40": {
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "23.1.40.0",
+            "fileVersion": "23.1.40.0"
           }
         }
       },
@@ -3456,12 +3477,12 @@
       "path": "netstandard.library/1.6.1",
       "hashPath": "netstandard.library.1.6.1.nupkg.sha512"
     },
-    "Newtonsoft.Json/13.0.1": {
+    "Newtonsoft.Json/13.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
-      "path": "newtonsoft.json/13.0.1",
-      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+      "sha512": "sha512-R2pZ3B0UjeyHShm9vG+Tu0EBb2lC8b0dFzV9gVn50ofHXh9Smjk6kTn7A/FdAsC8B5cKib1OnGYOXxRBz5XQDg==",
+      "path": "newtonsoft.json/13.0.2",
+      "hashPath": "newtonsoft.json.13.0.2.nupkg.sha512"
     },
     "NuGet.Common/6.6.1": {
       "type": "package",
@@ -3665,6 +3686,20 @@
       "sha512": "sha512-lxCZarZdvAsMl2zw9bXHrXK6RxVhB4b23iTFhCOdHFhxfbsxLxWf+ocvswJwR/9Wh/E//ddMi+wJGqUKV7VwoA==",
       "path": "sqlitepclraw.provider.e_sqlite3/2.1.2",
       "hashPath": "sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512"
+    },
+    "Syncfusion.EJ2.AspNet.Core/23.1.40": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IyDiQN0vZ3ZB2Z4jYN9kPPwrqPh7y3IO0BoIV9y0oRjAr0oEhwVzVv3AnJ0HCsKyO7Hno/ts4eiDoZfuUp09Yw==",
+      "path": "syncfusion.ej2.aspnet.core/23.1.40",
+      "hashPath": "syncfusion.ej2.aspnet.core.23.1.40.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/23.1.40": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YINuGj+/cqNPioddjV9mBYQJokXDb32e2C+NHshz1L9oPBRxfbB08dRx1c5cCdABbzQEGn2SLX8c6xj89Kv98w==",
+      "path": "syncfusion.licensing/23.1.40",
+      "hashPath": "syncfusion.licensing.23.1.40.nupkg.sha512"
     },
     "System.AppContext/4.3.0": {
       "type": "package",
